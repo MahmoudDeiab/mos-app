@@ -1,0 +1,671 @@
+{
+  "incidents": [
+    {
+      "id": "5ed60f01e64e680bbee96bad",
+      "status": {
+        "criticality": "info",
+        "verified": true
+      },
+      "address": "767 Jaffray Street, Barronett, North Dakota, 6439",
+      "position": {
+        "from": {
+          "latitude": 20.283283,
+          "longitude": -58.15212
+        },
+        "to": {
+          "latitude": -60.156459,
+          "longitude": 124.418434
+        }
+      },
+      "interval": {
+        "startTime": "2015-05-03T09:04:59 -02:00",
+        "endTime": "2015-10-01T08:56:19 -02:00",
+        "entryTime": "2015-01-28T05:58:32 -01:00"
+      }
+    },
+    {
+      "id": "5ed60f01854de8f78b407500",
+      "status": {
+        "criticality": "warning",
+        "verified": true
+      },
+      "address": "651 Seacoast Terrace, Manila, Virginia, 6796",
+      "position": {
+        "from": {
+          "latitude": 65.283121,
+          "longitude": -14.983978
+        },
+        "to": {
+          "latitude": -26.049766,
+          "longitude": 163.686413
+        }
+      },
+      "interval": {
+        "startTime": "2016-09-21T08:32:09 -02:00",
+        "endTime": "2016-01-06T01:24:59 -01:00",
+        "entryTime": "2019-07-05T11:45:35 -02:00"
+      }
+    },
+    {
+      "id": "5ed60f018118585f0612c43c",
+      "status": {
+        "criticality": "warning",
+        "verified": false
+      },
+      "address": "329 Hanson Place, Blanford, Maine, 5492",
+      "position": {
+        "from": {
+          "latitude": 12.356457,
+          "longitude": -97.591978
+        },
+        "to": {
+          "latitude": -54.196339,
+          "longitude": 39.856621
+        }
+      },
+      "interval": {
+        "startTime": "2016-12-25T07:34:33 -01:00",
+        "endTime": "2019-02-01T12:10:35 -01:00",
+        "entryTime": "2015-01-23T03:57:48 -01:00"
+      }
+    },
+    {
+      "id": "5ed60f01f24e27afc7b5155c",
+      "status": {
+        "criticality": "info",
+        "verified": false
+      },
+      "address": "660 Ovington Avenue, Dexter, Montana, 757",
+      "position": {
+        "from": {
+          "latitude": 14.049391,
+          "longitude": -54.733894
+        },
+        "to": {
+          "latitude": -36.324696,
+          "longitude": -58.486265
+        }
+      },
+      "interval": {
+        "startTime": "2018-07-13T04:29:42 -02:00",
+        "endTime": "2018-06-09T05:09:26 -02:00",
+        "entryTime": "2017-03-25T03:19:56 -01:00"
+      }
+    },
+    {
+      "id": "5ed60f017efba84c745b7d3c",
+      "status": {
+        "criticality": "warning",
+        "verified": true
+      },
+      "address": "412 Victor Road, Waverly, Tennessee, 9703",
+      "position": {
+        "from": {
+          "latitude": -89.019308,
+          "longitude": -40.944174
+        },
+        "to": {
+          "latitude": 67.349405,
+          "longitude": 15.153331
+        }
+      },
+      "interval": {
+        "startTime": "2018-03-19T10:01:32 -01:00",
+        "endTime": "2019-09-12T03:01:03 -02:00",
+        "entryTime": "2018-06-09T12:01:25 -02:00"
+      }
+    },
+    {
+      "id": "5ed60f01b2e4e64afea7fca0",
+      "status": {
+        "criticality": "info",
+        "verified": true
+      },
+      "address": "934 Jardine Place, Lowgap, Texas, 2782",
+      "position": {
+        "from": {
+          "latitude": -24.221486,
+          "longitude": -32.682334
+        },
+        "to": {
+          "latitude": -42.871969,
+          "longitude": 68.299024
+        }
+      },
+      "interval": {
+        "startTime": "2019-01-13T06:47:23 -01:00",
+        "endTime": "2015-07-08T07:59:17 -02:00",
+        "entryTime": "2017-08-01T01:49:43 -02:00"
+      }
+    },
+    {
+      "id": "5ed60f012c4fdfc35775ee0f",
+      "status": {
+        "criticality": "warning",
+        "verified": false
+      },
+      "address": "705 Dupont Street, Keyport, Kentucky, 5825",
+      "position": {
+        "from": {
+          "latitude": -88.034753,
+          "longitude": 14.208502
+        },
+        "to": {
+          "latitude": -67.689438,
+          "longitude": -55.748543
+        }
+      },
+      "interval": {
+        "startTime": "2018-05-14T05:52:43 -02:00",
+        "endTime": "2018-04-06T06:29:23 -02:00",
+        "entryTime": "2019-03-15T07:37:03 -01:00"
+      }
+    },
+    {
+      "id": "5ed60f019533e084e75bb3cb",
+      "status": {
+        "criticality": "warning",
+        "verified": true
+      },
+      "address": "948 Madeline Court, Chalfant, Hawaii, 6258",
+      "position": {
+        "from": {
+          "latitude": 51.61726,
+          "longitude": 26.636814
+        },
+        "to": {
+          "latitude": 31.089892,
+          "longitude": 60.036918
+        }
+      },
+      "interval": {
+        "startTime": "2015-08-29T01:36:38 -02:00",
+        "endTime": "2019-01-19T07:34:04 -01:00",
+        "entryTime": "2018-05-29T11:34:45 -02:00"
+      }
+    },
+    {
+      "id": "5ed60f012ddb997efae14cc5",
+      "status": {
+        "criticality": "warning",
+        "verified": false
+      },
+      "address": "490 Poplar Avenue, Enlow, Kansas, 8024",
+      "position": {
+        "from": {
+          "latitude": -30.396167,
+          "longitude": 119.631342
+        },
+        "to": {
+          "latitude": -41.529828,
+          "longitude": 117.437078
+        }
+      },
+      "interval": {
+        "startTime": "2018-03-12T08:02:30 -01:00",
+        "endTime": "2020-04-22T09:37:16 -02:00",
+        "entryTime": "2015-03-03T08:40:20 -01:00"
+      }
+    },
+    {
+      "id": "5ed60f01cab587861a3ceb65",
+      "status": {
+        "criticality": "info",
+        "verified": false
+      },
+      "address": "263 Anchorage Place, Sunnyside, Guam, 5174",
+      "position": {
+        "from": {
+          "latitude": 38.82811,
+          "longitude": -167.186886
+        },
+        "to": {
+          "latitude": -79.105491,
+          "longitude": 129.900841
+        }
+      },
+      "interval": {
+        "startTime": "2017-05-14T05:16:49 -02:00",
+        "endTime": "2017-11-07T07:11:30 -01:00",
+        "entryTime": "2016-01-11T06:23:56 -01:00"
+      }
+    },
+    {
+      "id": "5ed60f01215edf40858cb309",
+      "status": {
+        "criticality": "info",
+        "verified": true
+      },
+      "address": "834 Debevoise Avenue, Bendon, North Carolina, 6348",
+      "position": {
+        "from": {
+          "latitude": -28.642428,
+          "longitude": -34.774065
+        },
+        "to": {
+          "latitude": 61.334973,
+          "longitude": 5.370821
+        }
+      },
+      "interval": {
+        "startTime": "2017-04-28T01:16:30 -02:00",
+        "endTime": "2015-03-19T12:39:10 -01:00",
+        "entryTime": "2019-08-24T01:20:33 -02:00"
+      }
+    },
+    {
+      "id": "5ed60f01f16a8148dff71115",
+      "status": {
+        "criticality": "info",
+        "verified": true
+      },
+      "address": "799 Argyle Road, Whitmer, Federated States Of Micronesia, 3766",
+      "position": {
+        "from": {
+          "latitude": -45.26456,
+          "longitude": -17.109187
+        },
+        "to": {
+          "latitude": 59.02198,
+          "longitude": 129.127056
+        }
+      },
+      "interval": {
+        "startTime": "2014-06-07T01:10:18 -02:00",
+        "endTime": "2015-03-30T03:33:29 -02:00",
+        "entryTime": "2017-01-10T02:44:03 -01:00"
+      }
+    },
+    {
+      "id": "5ed60f018bdc1aa53ab6f563",
+      "status": {
+        "criticality": "critical",
+        "verified": false
+      },
+      "address": "323 Grove Place, Caroline, Wisconsin, 2444",
+      "position": {
+        "from": {
+          "latitude": 59.12187,
+          "longitude": -138.543995
+        },
+        "to": {
+          "latitude": -79.662236,
+          "longitude": 70.889266
+        }
+      },
+      "interval": {
+        "startTime": "2016-08-16T06:15:30 -02:00",
+        "endTime": "2018-03-08T09:54:46 -01:00",
+        "entryTime": "2017-09-08T04:08:14 -02:00"
+      }
+    },
+    {
+      "id": "5ed60f010151b141f15f5702",
+      "status": {
+        "criticality": "info",
+        "verified": true
+      },
+      "address": "547 Tapscott Street, Sedley, New Mexico, 305",
+      "position": {
+        "from": {
+          "latitude": -19.922911,
+          "longitude": -119.28366
+        },
+        "to": {
+          "latitude": -14.853685,
+          "longitude": 39.602359
+        }
+      },
+      "interval": {
+        "startTime": "2016-06-24T01:06:19 -02:00",
+        "endTime": "2018-12-16T07:40:57 -01:00",
+        "entryTime": "2019-05-22T01:38:45 -02:00"
+      }
+    },
+    {
+      "id": "5ed60f014edc2f89e5c66d20",
+      "status": {
+        "criticality": "warning",
+        "verified": true
+      },
+      "address": "469 Hanover Place, Fowlerville, Vermont, 3968",
+      "position": {
+        "from": {
+          "latitude": 36.058282,
+          "longitude": -54.223042
+        },
+        "to": {
+          "latitude": -51.027807,
+          "longitude": -141.144515
+        }
+      },
+      "interval": {
+        "startTime": "2017-08-13T09:02:56 -02:00",
+        "endTime": "2018-07-02T07:46:36 -02:00",
+        "entryTime": "2018-02-13T07:25:39 -01:00"
+      }
+    },
+    {
+      "id": "5ed60f0129e55cf7a26dface",
+      "status": {
+        "criticality": "warning",
+        "verified": false
+      },
+      "address": "249 Kane Place, Romeville, Palau, 7828",
+      "position": {
+        "from": {
+          "latitude": -42.340844,
+          "longitude": 101.104271
+        },
+        "to": {
+          "latitude": -2.713453,
+          "longitude": -12.509317
+        }
+      },
+      "interval": {
+        "startTime": "2019-12-22T09:14:54 -01:00",
+        "endTime": "2019-06-16T05:36:13 -02:00",
+        "entryTime": "2017-09-03T06:47:59 -02:00"
+      }
+    },
+    {
+      "id": "5ed60f012cbe7c46400b8225",
+      "status": {
+        "criticality": "warning",
+        "verified": true
+      },
+      "address": "740 Garden Street, Centerville, Georgia, 7004",
+      "position": {
+        "from": {
+          "latitude": -31.779192,
+          "longitude": 138.209854
+        },
+        "to": {
+          "latitude": -30.380183,
+          "longitude": -155.059979
+        }
+      },
+      "interval": {
+        "startTime": "2014-07-16T03:47:51 -02:00",
+        "endTime": "2014-07-03T11:49:41 -02:00",
+        "entryTime": "2017-01-30T05:43:08 -01:00"
+      }
+    },
+    {
+      "id": "5ed60f01586d4dc7b7a408d4",
+      "status": {
+        "criticality": "critical",
+        "verified": false
+      },
+      "address": "425 Dank Court, Elliott, Arkansas, 334",
+      "position": {
+        "from": {
+          "latitude": 22.853514,
+          "longitude": 94.640067
+        },
+        "to": {
+          "latitude": -52.571441,
+          "longitude": -149.8376
+        }
+      },
+      "interval": {
+        "startTime": "2020-05-12T04:21:27 -02:00",
+        "endTime": "2015-04-03T11:23:40 -02:00",
+        "entryTime": "2014-12-23T01:35:17 -01:00"
+      }
+    },
+    {
+      "id": "5ed60f0116d72939697acdf4",
+      "status": {
+        "criticality": "critical",
+        "verified": false
+      },
+      "address": "706 Girard Street, Oceola, Alaska, 8830",
+      "position": {
+        "from": {
+          "latitude": 65.170975,
+          "longitude": -87.527885
+        },
+        "to": {
+          "latitude": -21.034249,
+          "longitude": 89.590828
+        }
+      },
+      "interval": {
+        "startTime": "2016-09-03T10:00:35 -02:00",
+        "endTime": "2019-09-01T03:05:04 -02:00",
+        "entryTime": "2017-07-04T07:30:03 -02:00"
+      }
+    },
+    {
+      "id": "5ed60f0193403d1907b8371d",
+      "status": {
+        "criticality": "info",
+        "verified": true
+      },
+      "address": "513 Newton Street, Williamson, American Samoa, 9123",
+      "position": {
+        "from": {
+          "latitude": 27.450805,
+          "longitude": -137.321708
+        },
+        "to": {
+          "latitude": 8.752288,
+          "longitude": 23.197503
+        }
+      },
+      "interval": {
+        "startTime": "2020-03-18T03:11:05 -01:00",
+        "endTime": "2019-09-28T02:51:30 -02:00",
+        "entryTime": "2014-05-24T11:04:23 -02:00"
+      }
+    },
+    {
+      "id": "5ed60f01a8f7b99282da9de8",
+      "status": {
+        "criticality": "info",
+        "verified": true
+      },
+      "address": "960 Richards Street, Darlington, Mississippi, 7988",
+      "position": {
+        "from": {
+          "latitude": 70.67363,
+          "longitude": -72.055276
+        },
+        "to": {
+          "latitude": -78.94508,
+          "longitude": 75.902479
+        }
+      },
+      "interval": {
+        "startTime": "2017-11-13T07:44:15 -01:00",
+        "endTime": "2018-08-04T03:58:10 -02:00",
+        "entryTime": "2014-08-22T12:38:51 -02:00"
+      }
+    },
+    {
+      "id": "5ed60f0144057061304502df",
+      "status": {
+        "criticality": "warning",
+        "verified": false
+      },
+      "address": "563 Bevy Court, Johnsonburg, South Dakota, 557",
+      "position": {
+        "from": {
+          "latitude": 52.915355,
+          "longitude": 86.201756
+        },
+        "to": {
+          "latitude": -1.703975,
+          "longitude": 30.595822
+        }
+      },
+      "interval": {
+        "startTime": "2019-12-07T10:45:12 -01:00",
+        "endTime": "2016-11-13T12:22:32 -01:00",
+        "entryTime": "2014-07-29T06:54:18 -02:00"
+      }
+    },
+    {
+      "id": "5ed60f0179cc76ee545ca319",
+      "status": {
+        "criticality": "critical",
+        "verified": false
+      },
+      "address": "119 Linden Street, Herald, Puerto Rico, 5927",
+      "position": {
+        "from": {
+          "latitude": 66.779887,
+          "longitude": 47.381798
+        },
+        "to": {
+          "latitude": 58.677199,
+          "longitude": 152.534636
+        }
+      },
+      "interval": {
+        "startTime": "2015-10-04T10:06:52 -02:00",
+        "endTime": "2018-09-29T08:47:35 -02:00",
+        "entryTime": "2019-11-22T01:44:24 -01:00"
+      }
+    },
+    {
+      "id": "5ed60f01049dde00567e7dc4",
+      "status": {
+        "criticality": "info",
+        "verified": false
+      },
+      "address": "735 Hastings Street, Fairacres, Oregon, 4119",
+      "position": {
+        "from": {
+          "latitude": -37.25924,
+          "longitude": 64.839957
+        },
+        "to": {
+          "latitude": 54.008514,
+          "longitude": -111.0561
+        }
+      },
+      "interval": {
+        "startTime": "2020-01-08T06:17:15 -01:00",
+        "endTime": "2015-05-10T06:10:47 -02:00",
+        "entryTime": "2015-12-30T06:46:53 -01:00"
+      }
+    },
+    {
+      "id": "5ed60f017d70986279006335",
+      "status": {
+        "criticality": "info",
+        "verified": false
+      },
+      "address": "339 Winthrop Street, Delwood, Wyoming, 4078",
+      "position": {
+        "from": {
+          "latitude": -13.212041,
+          "longitude": -142.441519
+        },
+        "to": {
+          "latitude": -62.197675,
+          "longitude": 147.447031
+        }
+      },
+      "interval": {
+        "startTime": "2014-12-24T01:06:41 -01:00",
+        "endTime": "2019-11-14T03:44:26 -01:00",
+        "entryTime": "2018-04-07T05:59:09 -02:00"
+      }
+    },
+    {
+      "id": "5ed60f012723c155f3354d8b",
+      "status": {
+        "criticality": "critical",
+        "verified": false
+      },
+      "address": "352 Bay Street, Bellamy, Massachusetts, 4575",
+      "position": {
+        "from": {
+          "latitude": -26.704022,
+          "longitude": -54.338189
+        },
+        "to": {
+          "latitude": 33.944357,
+          "longitude": 93.238227
+        }
+      },
+      "interval": {
+        "startTime": "2014-04-07T09:49:16 -02:00",
+        "endTime": "2016-08-02T03:26:51 -02:00",
+        "entryTime": "2016-03-21T05:57:56 -01:00"
+      }
+    },
+    {
+      "id": "5ed60f0137360098a218d665",
+      "status": {
+        "criticality": "critical",
+        "verified": false
+      },
+      "address": "192 Williams Avenue, Sussex, South Carolina, 1010",
+      "position": {
+        "from": {
+          "latitude": 78.273187,
+          "longitude": 17.798772
+        },
+        "to": {
+          "latitude": 37.652718,
+          "longitude": -70.57199
+        }
+      },
+      "interval": {
+        "startTime": "2015-10-14T05:36:46 -02:00",
+        "endTime": "2015-10-15T12:12:33 -02:00",
+        "entryTime": "2017-12-10T11:29:26 -01:00"
+      }
+    },
+    {
+      "id": "5ed60f014348f3f62b7d13e6",
+      "status": {
+        "criticality": "warning",
+        "verified": true
+      },
+      "address": "409 Lamont Court, Osage, Colorado, 6469",
+      "position": {
+        "from": {
+          "latitude": 29.683607,
+          "longitude": -7.881813
+        },
+        "to": {
+          "latitude": -83.956108,
+          "longitude": 9.902027
+        }
+      },
+      "interval": {
+        "startTime": "2018-07-03T08:30:23 -02:00",
+        "endTime": "2014-08-12T09:11:21 -02:00",
+        "entryTime": "2017-05-10T05:56:50 -02:00"
+      }
+    },
+    {
+      "id": "5ed60f0180bf569b2661f596",
+      "status": {
+        "criticality": "warning",
+        "verified": false
+      },
+      "address": "734 Jamison Lane, Woodlake, Virgin Islands, 6410",
+      "position": {
+        "from": {
+          "latitude": 54.313571,
+          "longitude": 38.431318
+        },
+        "to": {
+          "latitude": -60.344734,
+          "longitude": -80.530946
+        }
+      },
+      "interval": {
+        "startTime": "2016-02-17T01:42:47 -01:00",
+        "endTime": "2016-07-15T01:42:48 -02:00",
+        "entryTime": "2015-08-10T02:16:04 -02:00"
+      }
+    }
+  ]
+}
